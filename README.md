@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NDescoteaux3
 - 👀 I’m interested in anything programming related and rock climbing !
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anything !
 
 <!---
